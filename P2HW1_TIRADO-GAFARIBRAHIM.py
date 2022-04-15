@@ -19,7 +19,9 @@ sales_tax = 0.07
 
 #processing subtotal SUM of item_price1, item_price2, item_price3, item_price4, item_price5
 subtotal = item_price1+item_price2+item_price3+item_price4+item_price5
+#procssing sales_tax_total of subtotal*sales_tax
 sales_tax_total = subtotal*sales_tax
+#processing sales_tax of subtotal+sales_tax_total
 sales_total = subtotal+sales_tax_total
 
 #DISPLAYS "_______Results_______"
