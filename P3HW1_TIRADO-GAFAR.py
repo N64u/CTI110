@@ -13,7 +13,7 @@ def main():
 
     score = int(input('Enter grade: '))
     
-    if (score >= A_score)and not (score >100): #min 90 max 100
+    if (score >= A_score) and not (score >100): #min 90 max 100
         print('Your grade is: A.')
         
     elif (score >= B_score) and not (score > 100): #min 80 max 89
