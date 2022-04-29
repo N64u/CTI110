@@ -1,6 +1,6 @@
 # CTI-110
 # P3HW2 - Pizza Order
-# TIRADO
+# TIRADO-GAFAR IBRAHIM
 # 4.29.22
 # This program calculates how many pizzas are needed in a group, number of pizza per person, and the cost.
 import math
