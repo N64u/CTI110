@@ -55,4 +55,4 @@ else:                                       # Shows error when user enters a val
     print('Should have entered 1.5, 2, or 3\n')
     print('Run Program again\n')
 
-input('press any button to exit.')
+input('enter any button to exit.')
